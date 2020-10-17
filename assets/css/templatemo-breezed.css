@@ -957,7 +957,7 @@ about
 */
 
 #about {
-  padding: 120px 0px 0px 0px;
+  padding: 70px 0px 0px 0px;
   position: relative;
   z-index: 9;
 }
@@ -1112,9 +1112,8 @@ testimonials
 --------------------------------------------
 */
 #testimonials {
-  margin-top: 120px;
-  padding: 80px 0px;
-  padding: 120px 0px;
+  margin-top: 60px;
+  padding: 40px 0px;
   background-image: url(../images/slide-03.jpg);
   background-position: center center;
   background-repeat: no-repeat;
@@ -1277,7 +1276,7 @@ contact
 }
 
 #contact-us {
-  padding: 120px 0px;
+  padding: 60px 0px;
   background-image: url(../images/dotted-map-bg.png);
   background-position: center center;
   background-repeat: no-repeat;
@@ -1648,7 +1647,7 @@ portfolio
 }
 
 #projects {
-  padding-top: 120px;
+  padding-top: 60px;
 }
 
 #projects .section-heading {
